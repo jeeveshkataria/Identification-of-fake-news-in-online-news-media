@@ -1,7 +1,8 @@
 # MODELS RESULTS
 
 ## On articles
-- bert-base-uncased: 0.78
+- bert-base-uncased: 0.782, 0.702
+
 
 
 ## On titles
